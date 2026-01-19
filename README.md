@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHWvST8aYRFOQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZeg8wXGsAY-/0/1745342419850?e=1770249600&v=beta&t=1oIZnUDlFz9o2lm6V0o6vlT1pezDspucp3UPHDUrn5k)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHGPOMBMVyceg/profile-displaybackgroundimage-shrink_350_1400/B4DZvWe6sOHQAY-/0/1768829989137?e=1770249600&v=beta&t=wes-YP0YFMK60KK2p3aoUP82axz-zxkAp9Cbn3OOpLk)
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">Always learning, building better code</h3>
