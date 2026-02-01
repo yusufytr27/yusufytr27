@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufytr27&" alt="yusufytr27" /></p>
 ![Snake animation](https://raw.githubusercontent.com/yusufytr27/yusufytr27/output/github-contribution-grid-snake.svg)
-
