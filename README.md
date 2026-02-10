@@ -1,16 +1,17 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHGPOMBMVyceg/profile-displaybackgroundimage-shrink_350_1400/B4DZvWe6sOHQAY-/0/1768829989137?e=1770249600&v=beta&t=wes-YP0YFMK60KK2p3aoUP82axz-zxkAp9Cbn3OOpLk)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:141e30,100:243b55&height=300&section=header&text=Yusuf%20Yeter&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Web%20Development&descAlignY=60&descSize=22)
 
-# Merhaba, ben Yusuf Yeter! 👋
 
-### 🚀 Web Geliştirici & Yazılım Tutkunu
+# Hello, I'm Yusuf Yeter! 👋
 
-Teknoloji dünyasında sürekli öğrenen, üreten ve gelişen bir yazılımcıyım. Şu anda **Web Geliştirme** alanına odaklanmış durumdayım; modern web teknolojileri ve yazılım mimarileri üzerine çalışmalar yapıyorum. Kod yazmayı sadece bir iş değil, karmaşık problemleri çözmek için bir sanat olarak görüyorum.
+### 🚀 Web Developer & Software Enthusiast
+
+I am a developer who constantly learns, creates, and evolves in the world of technology. I am currently focused on **Web Development**, working on modern web technologies and software architectures. I see coding not just as a job, but as an art form to solve complex problems.
 
 ---
 
-### 🛠️ Yetenekler & Araçlar
+### 🛠️ Skills & Tools
 
-Yazılım geliştirme sürecinde kullandığım temel teknolojiler ve araçlar:
+Core technologies and tools I use in the software development process:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -20,33 +21,23 @@ Yazılım geliştirme sürecinde kullandığım temel teknolojiler ve araçlar:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-* **Diller:** Java (OOP, Data Structures), Python, HTML5, CSS3
-* **İlgi Alanları:** Web Geliştirme, Veri Yapıları & Algoritmalar, Otomata Teorisi, Veritabanı Yönetimi
+* **Languages:** Java (OOP, Data Structures), Python, HTML5, CSS3
+* **Interests:** Web Development, Data Structures & Algorithms, Automata Theory, Database Management
 
 ---
 
-### 💻 Güncel Projeler & Çalışmalar
+### 💻 Current Projects
 
-Yazılım geliştirme yolculuğumda üzerinde çalıştığım bazı projeler:
+Main projects I am currently working on and developing:
 
-* **💇‍♂️ Berber Randevu Sistemi:** JavaFX ve Scene Builder kullanarak geliştirdiğim masaüstü randevu yönetim uygulaması.
-* **🌸 Çiçek Stok Yönetim Sistemi:** Python ile geliştirdiğim, stok takibi ve yönetimi sağlayan sistem.
-* **🌾 Akıllı Tarım Sistemi:** Tarımsal verimliliği artırmayı hedefleyen yazılım projesi.
-
----
-
-### 🏆 Eğitimler & Başarılar
-
-Kendimi geliştirmek adına katıldığım programlar:
-
-* **2026 Türkiye Siber Vatan Programı:** Siber güvenlik ve yazılım geliştirme üzerine yoğunlaştırılmış eğitim programı.
-* **Savunma Sanayii 101:** Savunma sanayi teknolojileri ve mühendislik prensipleri üzerine eğitim.
+* **💇‍♂️ Barber Appointment System:** A desktop application developed using JavaFX and Scene Builder that digitizes appointment processes and streamlines management for businesses.
+* **🌐 Personal Portfolio Website:** My personal website designed using HTML5 and CSS3 technologies, where I showcase my projects and skills. ([Visit Site](https://yusufyeter.rf.gd/))
 
 ---
 
-### 📬 İletişim
+### 📬 Contact
 
-Benimle projeler, iş birlikleri veya sadece teknoloji sohbetleri için iletişime geçmekten çekinmeyin!
+Feel free to reach out to me for projects, collaborations, or just a tech chat!
 
 <p align="left">
   <a href="https://linkedin.com/in/yusuf-yeter-a6264322b" target="_blank">
@@ -62,5 +53,5 @@ Benimle projeler, iş birlikleri veya sadece teknoloji sohbetleri için iletişi
 
 ---
 <p align="center">
-  <i>"Kod yazmak, geleceği inşa etmektir."</i>
+  <i>"Coding is building the future."</i>
 </p>
